@@ -18,6 +18,7 @@ void setup() //Estructura principal
 } //Fin de void setup ()
 
 //Cuerpo del programa
+//MODIFICACION AGREGADA POR CAPISTRAN
 void loop() //Función bucle
 {
   digitalWrite (FLASH, HIGH); //Encender led. 2 parámetros, pin a controlar, estado (0,LOW,FALSE,1,HIGH,TRUE)
